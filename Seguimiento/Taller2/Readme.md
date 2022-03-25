@@ -23,9 +23,9 @@ ls mv abuelo_1 ../../Bisabuelo/Abuela cd</h2>
 <img src="./4.jpg">
 <h3 align="center">Cambiamos la contraseña del usuario /Sysroot/</h2>
 <img src="./5.jpg">
-<h3 align="center">Volvemos a escribir la nueva contraseña/Sysroot/</h2>
+<h3 align="center">Volvemos a escribir la nueva contraseña</h2>
 <img src="./6.jpg">
-h3 align="center">Escribimos el comando touch /.autorelabel</h2>
+<h3 align="center">Escribimos el comando touch /.autorelabel</h2>
 <img src="./7.jpg">
-h3 align="center">Oprimimos enter y esperamos</h2>
+<h3 align="center">Oprimimos enter y esperamos</h2>
 <img src="./8.jpg">

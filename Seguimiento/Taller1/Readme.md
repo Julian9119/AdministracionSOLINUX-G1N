@@ -4,5 +4,5 @@
 
 <h3 align="center">Paso 1 listamos  el contenido del directorio con el comando  ls-a</h2>
 
-<img src="1.png">
+<img src="./1.jpg">
 

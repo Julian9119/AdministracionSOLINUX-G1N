@@ -47,3 +47,37 @@ puedan ingresar a las carpetas 770 para los profesores y 777 para los estudiante
 enunciado indica que todos los usuarios pueden ingresar al directorio estudiantes  </h2>
 <h3 align="center"> Usamos el comando 'chmod + la combinacion de permisos a usar'</h2>
 <img src="./8.jpg">
+<h1 align="center"> 5. Verifique los permisos anteriores, usando las cuentas de los usuarios ya creados</h1>
+<h3 align="center"> Verificamos los permisos logueandonos con diferentes usuarios y tratando de ingresar a los direcctorios.
+ En la siguiente imagen se aprecia que Claudia y Diana tienen ingreso al directorio profesores por que pertenecen al grupo profesor
+pero laura no por que pertenece al grupo estudiante</h2>
+<img src="./9.jpg">
+<img src="./10.jpg">
+<img src="./11.jpg">
+<img src="./12.jpg">
+<h1 align="center"> 6. Use un editor de texto para crear archivos en los respectivos directorios, usando diferentes usuarios.</h1>
+<img src="./13.jpg">
+<img src="./14.jpg">
+<img src="./15.jpg">
+<img src="./16.jpg">
+<img src="./17.jpg">
+<img src="./18.jpg">
+ <h1 align="center"> 7.Como super usuario, cambie de dueño los archivos creados</h1>
+<h3 align="center"> Usamos el comando chown+nombre usuario+ nombre del archivo del usuario a cambiar /h2>
+<h3 align="center"> listamos con el comando ls -l para verificar los permisos</h2>
+<h3 align="center"> cambiamos los permisos de claudia a diana y luego de claudia a diana como se puede ver en la imagen>
+<img src="./19.jpg">
+
+ <h1 align="center"> 8.Usando diferentes terminales, entre al sistema con los diferentes usuarios:</h1>
+
+<img src="./20.jpg">
+
+ <h1 align="center"> 9.Usando diferentes terminales, entre al sistema con los diferentes usuarios:equivoquese algunas veces en las claves o en el nombre de usuario):</h1>
+<img src="./21.jpg">
+ <h1 align="center"> 10.Determine la cantidad de veces que el estudiante laura ingreso al sistema.</h1>
+<img src="./22.jpg">
+ <h1 align="center"> 11.Comprima el contenidos del directorio de los profesores en profesore.tgz y 
+el contenido del directorio de los estudiante en un archivo estudiantes.zip.</h1>
+<img src="./23.jpg">
+ <h1 align="center"> 12Cree un alias para cambiar la clave del usuario diana.</h1>
+<img src="./24.jpg">

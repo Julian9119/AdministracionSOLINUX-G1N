@@ -33,5 +33,17 @@ mkdir profesores
 mkdis estudiantes
  </h2 >
 <img src="./5.jpg"> 
-<h3 align="center"> Usamos el comando ls-l para ver los permisos de los usuarios  y grupos. Usamos  el comando chmod ug+rwx nombre del grupo le damos permisos al grupo de lectura escritura y ejecución </h2>
+<h3 align="center"> con el comando 'ls -l' con el fin de listar los direcctorios y ver sus permisos observamos que el root
+tiene los permisos sobre estos directorios </h2 >
 <img src="./6.jpg">
+<h3 align="center"> Una ves creado los directorios tenemos que darle permiso a los directorios para que los grupos estudiante y profesor puedan
+modificar en cada direcctorio correspondiente esto se logra de dos formas con el comando 'chgrp + nombre del grupo + el nombre del directorio' </h2>
+<h3 align="center"> La otra forma es con 'chown + nombre del grupo + nombre del direcctorio' usaremos esta forma </h2>
+<h3 align="center"> Por ultimo escribimos el comando 'ls -l' y verificamos que los grupos estudiantey profesor
+tambien tienen permisos sobre estos directorios </h2>
+<img src="./7.jpg">
+<h3 align="center"> luego de tedremos que gestionar los permisos necesarios para que los usuarios
+puedan ingresar a las carpetas 770 para los profesores y 777 para los estudiantes debido a que en el
+enunciado indica que todos los usuarios pueden ingresar al directorio estudiantes  </h2>
+<h3 align="center"> Usamos el comando 'chmod + la combinacion de permisos a usar'</h2>
+<img src="./8.jpg">

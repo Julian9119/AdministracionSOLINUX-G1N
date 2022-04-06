@@ -33,4 +33,4 @@ function main {
 } 
 main </h2>
 
-<img src="./1.png">
+<img src="./1.jpg">

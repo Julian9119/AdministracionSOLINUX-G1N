@@ -12,4 +12,5 @@
 <img src="./5.png">
 <h1 align="center"> Verificamos que funcione el despliegue</h1>
 <img src="./6.jpg">
+<h1 align="center"> Verificamos que funcione el despliegue</h1>
 <img src="./7.jpg"
